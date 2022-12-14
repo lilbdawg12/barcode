@@ -1,5 +1,5 @@
 import barcode
-from barcode.writer import ImageWriter
+from barcode import ImageWriter
 import barcode
 
 barcode_formats = barcode.PROVIDED_BARCODES

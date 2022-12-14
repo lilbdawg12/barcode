@@ -1,4 +1,4 @@
-def barcode(
+def python_barcode (
     data, barcode_class="code128", fmt="png", add_checksum=True, **writer_options
 ):
     """Return a barcode's image data.
